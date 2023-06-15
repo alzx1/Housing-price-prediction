@@ -47,7 +47,7 @@ The project provides accurate predictions of housing prices based on the selecte
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Apache License](LICENSE).
 
 ## Acknowledgments
 
